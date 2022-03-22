@@ -11,7 +11,6 @@ public class Converter {
         if (romanStr.equals("VIII")) return 8;
         if (romanStr.equals("IX")) return 9;
         if (romanStr.equals("X")) return 10;
-
         return 0;
     }
 
